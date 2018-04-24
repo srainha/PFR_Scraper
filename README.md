@@ -1,2 +1,2 @@
-# PFR_Scraper
+# PFR Scraper
 Web scraper for NFL statistics 
